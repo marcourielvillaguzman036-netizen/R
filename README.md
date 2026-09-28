@@ -1,1 +1,1 @@
-# Taken from https://stackoverflow.com/a/4749909 and slightly edited. Thanks!
+https://TU_TOKEN@github.com/tu-usuario/nombre-del-repositorio.git
